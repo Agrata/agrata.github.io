@@ -1250,7 +1250,7 @@ only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
 	background: #000;
 	width: 100%;
 	padding: 1em 0;
-  position: relative;
+	position: absolute;
 }
 .site-footer .site-info,
 .site-footer .site-info a {
